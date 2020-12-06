@@ -4,6 +4,7 @@
 - [Resume](https://sanazfarrokhi.github.io/resume-EN/) 
 - [SOP](https://sanazfarrokhi.github.io/sop/)
 - [GitHub](https://github.com/sanazfarrokhi)
+- [javaScript](https://github.com/sanazfarrokhi/PNU_1339_AR/blob/main/JAVASCRIPT.jpeg)
 -----------------
 ## روز و ساعت مطالعه دروس
 
